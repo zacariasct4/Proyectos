@@ -8,7 +8,7 @@ class App_catalago:
     def mostrar_menu(self):
         print('*** App catálogo películas')
 
-        while True:
+        while True: 
             try:
                 print(f'''Menu
                       1. Agregar película
